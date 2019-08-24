@@ -30,7 +30,7 @@ author: yosep kim
 
 github.com/cowboyuniverse
 
-![Screenshot](https://github.com/cowboyuniverse/cancerPrediction/blob/master/blob/Capture.PNG)
+<!-- ![Screenshot](https://github.com/cowboyuniverse/cancerPrediction/blob/master/blob/Capture.PNG) -->
 
 ![Screenshot](Capture.png)
 <!-- ![Alt TEXT](blob/Capture.png?raw=true "Title")
