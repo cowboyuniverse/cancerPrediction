@@ -1,8 +1,16 @@
 # cancerPrediction
-author: yosep kim
 
 
 ### Cancer Prediction Using Decision Trees and Random Forest
+Bagging Accuracy 0.822222222222
+
+AdaBoost: 0.933333333333
+
+AdaBoost accuracy with cross validation: 0.929464285714
+
+Accuracy Random Forest:  0.955555555556
+
+RandomForest accuracy with cross validation: 0.929464285714
 
 - make a bootstarp sample of the original “Training” Dataset (build in part(b)) with the
 size of bootstarp_size = 0.8*(Size of the original dataset). You can use the following
@@ -18,14 +26,16 @@ all 19 classifiers.
 Finally, calculate and report the accuracy of your Bagging method.
 
 
+author: yosep kim
+
+github.com/cowboyuniverse
 
 ![Screenshot](https://github.com/cowboyuniverse/cancerPrediction/blob/master/blob/Capture.PNG)
 
+![Screenshot](Capture.png)
 <!-- ![Alt TEXT](blob/Capture.png?raw=true "Title")
 ![Image description](blob/Capture.png)
 ![myimage-alt-tag](blob/Capture.png)
-
-![Screenshot](Capture.png)
 ![Alt TEXT](Capture.png?raw=true "Title")
 ![Image description](Capture.png)
 ![myimage-alt-tag](Capture.png) -->
