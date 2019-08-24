@@ -17,8 +17,14 @@ the prediction results for all testing samples.
 all 19 classifiers.
 Finally, calculate and report the accuracy of your Bagging method.
 
-[[blob/Capture.png|ALT TEXT]
+<!-- [[blob/Capture.png|ALT TEXT] -->
 
-<!-- ![Screenshot](blob/Capture.png) -->
-<!-- ![Alt TEXT](blob/Capture.png?raw=true "Title") -->
+![Screenshot](blob/Capture.png)
+![Alt TEXT](blob/Capture.png?raw=true "Title")
+![Image description](blob/Capture.png)
 ![myimage-alt-tag](blob/Capture.png)
+
+![Screenshot](Capture.png)
+![Alt TEXT](Capture.png?raw=true "Title")
+![Image description](Capture.png)
+![myimage-alt-tag](Capture.png)
